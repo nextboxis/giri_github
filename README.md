@@ -20,6 +20,7 @@
     <a href="mailto:giridharank790@gmail.com"><img src="https://img.shields.io/badge/📧_giridharank790@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(cybersecurity)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    
   </p>
 
 <h3>🌐 Socials</h3>
