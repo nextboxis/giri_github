@@ -1,100 +1,112 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <GIRIDHARAN K JERRY> </strong>
-</h1>
+```text
+  _  _   _   ___ _  _____ ___   __  __  ___  ___  ___ 
+ | || | /_\ / __| |/ / __| _ \ |  \/  |/ _ \|   \| __|
+ | __ |/ _ \ (__| ' <| _||   / | |\/| | (_) | |) | _| 
+ |_||_/_/ \_\___|_|\_\___|_|_\ |_|  |_|\___/|___/|___|
+                                                       
+          [ SYSTEM OVERRIDE: ACTIVE ]
+```
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<img src="https://capsule-render.vercel.app/render?type=glitch&color=00ff00&height=120&section=header&text=PROFILE_ACTIVE&fontSize=40&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+`Searching for lifeform...`
+`Target found: GIRIDHARAN K JERRY`
+`Access Level: ELITE_ARCHITECT`
 
-  <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
-  </p>
+---
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:giridharank790@gmail.com"><img src="https://img.shields.io/badge/📧_giridharank790@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(cybersecurity)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-    
-  </p>
+### 🟢 [ IDENTITY_DUMP ]
+**Full Stack Developer | MERN • Python • Flutter**
 
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
+`[CONNECTING TO NODES...]`
+- **MAIL**: [jerry_root@proton.me](mailto:giridharank790@gmail.com)
+- **GITHUB**: [/nextboxis](https://github.com/nextboxis)
+- **LINKEDIN**: [/in/nextboxis](www.linkedin.com/in/giridharan-k1315)
 
-  <a href="https://discord.com/users/midhun_n">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
+---
 
-  <a href="https://github.com/Midhun-Nk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
+### 💻 [ CORE_MODULES ]
+```zsh
+> accessing_skill_nodes... [STATUS: SECURE]
+```
 
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
+#### 🌐 [ FRONTEND_NODES ]
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" />
 
-  <a href="https://linkedin.com/in/midhun-nk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+#### ⚙️ [ BACKEND_SYSTEMS ]
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,dart,flutter" />
 
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
+#### 🗄️ [ DATA_WAREHOUSING ]
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
+#### 🛠️ [ INFRA_STRUCTURE ]
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp,docker,vercel,postman" />
 
+---
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
+### 🛡️ [ SECURITY_CLEARANCE ]
+*Verified Credentials Found in Subsystem:*
 
-<br clear="all" />
+- 📡 **AWS Certified** - Cloud Architecture Specialist
+- 🔓 **Security Practitioner** - JPMC / Deloitte / BCG
+- 📊 **Data Architect** - Big Data Certified
+- 🛠️ **MERN Specialist** - MongoDB Professional
 
+```bash
+[SECURE_CONNECTION_ESTABLISHED]
+[DECRYPTING_CERTIFICATES...]
+> CyberSecurity_Tier_4 [VERIFIED]
+> Cloud_Infrastructure [VERIFIED]
+> Enterprise_Security [VERIFIED]
+```
 
-## 🛠️ Skills
+---
+
+### 🐍 [ ACTIVITY_STREAM ]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Midhun-Nk/Midhun-Nk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Midhun-Nk/Midhun-Nk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Midhun-Nk/Midhun-Nk/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 📁 [ DIRECTORY: /PROJECTS ]
+```bash
+> ls -R /projects
+```
+
+- 📂 **FIN-AI** - `Next.js` `FastAPI` / [DECRYPTED]
+- 📂 **CYBER-VIGIL** - `Python` `Socket` / [RESTRICTED]
+- 📂 **SMART-FARM** - `Flutter` `IoT` / [AUTHORIZED]
+- 📂 **NEXUS-RECOVERY** - `React` `Node.js` / [DECRYPTED]
+
+---
+
+### 📊 [ SYSTEM_METRICS ]
+
 <p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript,c++" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
-</td>
-
-
-
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
-</td>
-</tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00ff00&text_color=ffffff" alt="Top Langs" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Midhun-Nk&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📡 [ TERMINAL_LOGS ]
+- 🔭 Working on **AI-driven Cyber Defense**
+- 🌱 Learning **Advanced Penetration Testing**
+- ⚡ Fun fact: **My code is compiled by coffee and dark mode.**
+
+<p align="right">
+  `Last Login: 2026-03-12`
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=00ff00" alt="Traffic Log" />
+</p>
+
+</div>
 
